@@ -3,7 +3,7 @@
 #include <string.h>
 #include <math.h>
 #include <float.h>
-//haha
+//hehe
 #define MAX_ROW 2000
 #define MAX_COL 10
 #define MAX_LINE 200
